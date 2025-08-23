@@ -1,56 +1,87 @@
-# Hi there, I'm Gaurav Yadav 👋  
+<h1 align="center" style="font-family: 'Fira Code', monospace;"><b>Gaurav Yadav</b></h1>
 
-**Data Analyst | BI Analyst | Aspiring Data Engineer**  
-Transforming raw data into actionable insights through SQL, Python, Power BI, and cloud platforms.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=950&height=60&lines=Hi+I'm+Gaurav+Yadav!;Data+%26+BI+Analyst+%7C+Aspiring+Data+Engineer;From+Raw+Data+to+Real+Insights+📊;Building+Pipelines+%7C+Designing+Dashboards;Driving+Decisions+with+Data" />
+</p>
 
 ---
 
-## 🚀 About Me
-🎓 M.S. in Information Systems, Syracuse University (Specialization: Data Science)  
-📊 Experienced in building SQL pipelines, interactive dashboards, and scalable ETL workflows  
-⚡ Passionate about leveraging analytics to solve real-world business problems  
-⚽ Outside of work, I enjoy playing soccer, badminton, FIFA, and supporting Manchester United!  
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800" height="400" alt="Profile Banner">
+</p>
+
+---
+
+## 👋 About Me  
+
+I’m a data and BI analyst with **3+ years of combined academic and industry experience** turning raw data into actionable insights.  
+I specialize in **SQL, Python, Power BI, and Snowflake**, with hands-on experience in **ETL pipelines, reporting automation, and risk/financial analytics**.  
+Passionate about using data to solve real-world problems, I’ve built solutions that improved reporting speed by 40% and optimized dashboards adopted by 25% more users.  
+Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or competing in **FIFA tournaments** — always cheering for Manchester United!  
+
+---
+
+## 🎓 Education  
+
+**📍 Syracuse University – NY, USA**  
+🎓 Master of Science in Information Systems | Specialization in Data Science | *Aug 2023 – May 2025*  
+
+**📍 Mumbai University – Mumbai, India**  
+🎓 Bachelor of Engineering | *Aug 2018 – May 2022*  
+
+---
+
+## 💼 Professional Experience  
+
+### 🏢 *Data Analytics Research Assistant* | Syracuse University  
+*Jun 2025 – Present*  
+- Built stock market analytics pipeline (Python, yfinance, Microsoft Fabric, Power BI).  
+- Automated Power BI reporting (40% faster) and optimized queries (load time ↓ from 12s to <5s).  
+- Designed dashboards tailored for technical and non-technical users (adoption ↑ by 25%).  
+
+### 🏢 *Data Analyst* | iConsult Collaborative  
+*Jun 2024 – May 2025*  
+- Developed Tableau dashboards integrating SQL pipelines for operational & demographic data.  
+- Automated ETL workflows (Python, SQL) reducing processing by 45%.  
+- Validated data accuracy, enforced governance, and documented scalable workflows.  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+**🧮 Data & Programming:**  
+`Python (Pandas, Scikit-learn, Streamlit)` | `R` | `SQL (MySQL, SQL Server)` | `NoSQL`  
 
----
+**🔄 ETL & Pipelines:**  
+`PySpark` | `dbt` | `AWS Glue` | `Alteryx` | `Power Apps`  
 
-## 📂 Featured Projects  
+**☁️ Cloud & Platforms:**  
+`Azure` | `Databricks` | `AWS (Redshift, EC2, S3)` | `Snowflake` | `GCP` | `Git`  
 
-### 🔹 [Stock Market Analytics Pipeline (Power BI + Microsoft Fabric)](your-repo-link)  
-- Pulled 6 months of FAANG stock data via Python/yfinance  
-- Built a semantic model in Microsoft Fabric Lakehouse  
-- Designed Power BI dashboards to track volatility, moving averages, and trends  
+**📊 BI & Visualization:**  
+`Power BI` | `Tableau` | `Looker` | `Advanced Excel (Pivot, Power Query)`  
 
-### 🔹 [YouTube Trending Data ETL (AWS + Python + QuickSight)](your-repo-link)  
-- Built an automated ETL pipeline for 200K+ records with AWS S3, Glue, Athena, and Lambda  
-- Designed QuickSight dashboards to analyze category performance and engagement trends  
-
-### 🔹 [Sales Data Pipeline and Dashboard (SQL + Power BI)](your-repo-link)  
-- Created SQL pipelines to process 150K+ sales records  
-- Automated KPI dashboards in Power BI with advanced DAX measures  
-
-### 🔹 [Syracuse Urban Challenges Dashboard (Tableau)](your-repo-link)  
-- Analyzed open data on crime, parking violations, unfit properties, and fire incidents  
-- Designed multi-dashboard navigation with geospatial insights and interactive filtering  
+**📈 Analytics & Reporting:**  
+`Statistical Modeling` | `Data Validation` | `Risk/Financial Analytics` | `KPI Development`  
 
 ---
 
 ## 📬 Connect with Me  
-- LinkedIn: [linkedin.com/in/gaurav-yadavv](https://www.linkedin.com/in/gaurav-yadavv)  
-- Portfolio (coming soon!)  
+
+<p align="left">
+  <a href="mailto:yadavgaurav490@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-yadavv" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/gauravyadav-git" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" style="margin-right:10px;" />
+  </a>
+</p>
 
 ---
-⭐️ From [Gaurav Yadav](https://github.com/gauravyadav-git)  
+
+<p align="center"> 
+"Fueling smarter decisions with clean data, clear visuals, and scalable pipelines."  
+</p>
