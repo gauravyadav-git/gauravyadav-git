@@ -44,39 +44,21 @@ Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or
 
 ## 🛠️ Skills & Tools  
 
-<p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**🧮 Data & Programming:**  
+`Python (Pandas, Scikit-learn, Streamlit)` | `R` | `SQL (MySQL, SQL Server)` | `NoSQL`  
 
-<p>
-  <!-- BI Tools -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+**🔄 ETL & Pipelines:**  
+`PySpark` | `dbt` | `AWS Glue` | `Alteryx` | `Power Apps`  
 
-<p>
-  <!-- ETL / Pipelines -->
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-0075A8?style=for-the-badge&logo=alteryx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+**☁️ Cloud & Platforms:**  
+`Azure` | `Databricks` | `AWS (Redshift, EC2, S3)` | `Snowflake` | `GCP` | `Git`  
 
-<p>
-  <!-- Cloud & Platforms -->
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**📊 BI & Visualization:**  
+`Power BI` | `Tableau` | `Looker` | `Advanced Excel (Pivot, Power Query)`  
+
+**📈 Analytics & Reporting:**  
+`Statistical Modeling` | `Data Validation` | `Risk/Financial Analytics` | `KPI Development`  
+
 
 ---
 
