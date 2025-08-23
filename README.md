@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="800" height="400" alt="Profile Banner">
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="800" height="400" alt="Profile Banner">
 </p>
 
 ---
@@ -16,8 +16,7 @@
 
 I’m a data and BI analyst with **3+ years of combined academic and industry experience** turning raw data into actionable insights.  
 I specialize in **SQL, Python, Power BI, and Snowflake**, with hands-on experience in **ETL pipelines, reporting automation, and risk/financial analytics**.  
-Passionate about using data to solve real-world problems, I’ve built solutions that improved reporting speed by 40% and optimized dashboards adopted by 25% more users.  
-Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or competing in **FIFA tournaments** — always cheering for Manchester United!  
+Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or competing in **FIFA tournaments** — always cheering for **Manchester United!**  
 
 ---
 
@@ -25,9 +24,11 @@ Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or
 
 **📍 Syracuse University – NY, USA**  
 🎓 Master of Science in Information Systems | Specialization in Data Science | *Aug 2023 – May 2025*  
+📊 **CGPA: 3.778 / 4.0**  
 
 **📍 Mumbai University – Mumbai, India**  
 🎓 Bachelor of Engineering | *Aug 2018 – May 2022*  
+📊 **CGPA: 3.42 / 4.0**  
 
 ---
 
@@ -35,15 +36,9 @@ Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or
 
 ### 🏢 *Data Analytics Research Assistant* | Syracuse University  
 *Jun 2025 – Present*  
-- Built stock market analytics pipeline (Python, yfinance, Microsoft Fabric, Power BI).  
-- Automated Power BI reporting (40% faster) and optimized queries (load time ↓ from 12s to <5s).  
-- Designed dashboards tailored for technical and non-technical users (adoption ↑ by 25%).  
 
 ### 🏢 *Data Analyst* | iConsult Collaborative  
 *Jun 2024 – May 2025*  
-- Developed Tableau dashboards integrating SQL pipelines for operational & demographic data.  
-- Automated ETL workflows (Python, SQL) reducing processing by 45%.  
-- Validated data accuracy, enforced governance, and documented scalable workflows.  
 
 ---
 
@@ -83,5 +78,5 @@ Outside of work, you’ll find me playing ⚽ **soccer**, 🏸 **badminton**, or
 ---
 
 <p align="center"> 
-"Fueling smarter decisions with clean data, clear visuals, and scalable pipelines."  
+"Turning complex data into clear, impactful decisions."  
 </p>
