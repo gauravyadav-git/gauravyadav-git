@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace;"><b>Gaurav Yadav</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=950&height=60&lines=Hi+I'm+Gaurav+Yadav!;Data+Storyteller+📊+%7C+Problem+Solver+🔍;SQL+•+Python+•+Power+BI+•+Snowflake;Automating+Reporting+%7C+Streamlining+Workflows;Helping+Businesses+Win+with+Data+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=950&height=60&lines=Hi+I'm+Gaurav+Yadav!;Data+Storyteller+📊+%7C+Problem+Solver+🔍;SQL+•+Python+•+Power+BI+•+Excel;Automating+Reporting+%7C+Streamlining+Workflows;Helping+Businesses+Win+with+Data+🚀" />
 </p>
 
 ---
